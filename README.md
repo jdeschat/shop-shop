@@ -56,6 +56,21 @@ Made with [contributors-img](https://contrib.rocks).
 ## Tests
 ![GitHub license](https://img.shields.io/badge/test-100%25-success)
 
+## Technology Used
+•	React
+•	Bootstrap
+•	Node.js
+•	Express.js
+•	HTML
+•	CSS
+•	Javascript
+•	JSX
+•	Apollo
+•	Graph QL
+•	MongoDb
+•	Mongoose
+•	Heroku
+
 ## Questions
 
 My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/shop-shop.
